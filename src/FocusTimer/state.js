@@ -3,6 +3,7 @@
     seconds: 0,
     isRunning: false,
     isMute: true,
+    contdownId: null,
 }
 
 
